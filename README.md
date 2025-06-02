@@ -1,5 +1,4 @@
 # Personal Profile Webpage
-# Personal-Profile-Webpage
 🎯 Objective:
 
 create a single web page using HTML, CSS, and JavaScript to present a personal profile (like a portfolio or resume intro) that includes:
